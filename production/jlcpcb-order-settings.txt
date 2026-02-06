@@ -1,0 +1,25 @@
+JLCPCB PCBA Order Settings
+===========================
+
+PCBA Type                                          Economic
+Assembly Side                                      Top Side
+PCBA Qty                                           10
+Tooling holes                                      Added by JLCPCB
+Confirm Parts Placement                            No
+Bake Components                                    No
+Photo Confirmation                                 No
+Board Cleaning                                     No
+Conformal Coating (cleaning included)              No
+Packaging                                          Antistatic bubble film
+Depanel boards & edge rail before delivery         No
+Solder Paste                                       High temp.
+Flying Probe Test                                  No
+Add paste for unpopulated pad & step stencil opening   No
+Nitrogen reflow soldering                          Yes (for Economic)
+Function test                                      No
+PCBA remark                                        No
+File provided as                                   Complete File, just proceed with my own files
+Panel Format                                       1 * 1
+Build Time                                         4 - 5 days
+Stencil Storage                                    No
+Fixture Storage                                    No

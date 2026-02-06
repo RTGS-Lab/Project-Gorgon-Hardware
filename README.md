@@ -75,12 +75,26 @@ Built around the Raspberry Pi RP2040 microcontroller and featuring a 24-bit ADC,
 - Infrastructure temperature monitoring (roads, pipelines)
 - Environmental research
 
+## Known Issues
+
+### v1.0 - Incorrect Diodes
+The diodes installed by JLCPCB are incorrect and must be replaced. Desolder the existing diodes and replace with:
+
+| Part Number | Description |
+|-------------|-------------|
+| 1N4148WS-FDICT-ND | Diode, General Purpose, 75V 150mA, SOD-323 |
+
+### v1.0 - Missing Input Capacitor
+A 1000 uF 16V electrolytic capacitor must be added between the 12V input and GND.
+
 ## Manufacturing
 
 Production files are located in the `production/` directory:
 - **BOM**: `bom.csv` contains the complete bill of materials
 - **Pick and Place**: `positions.csv` provides component placement coordinates
 - **Gerbers**: Included in `sdi12-analog-mux.zip`
+- **JLCPCB BOM**: `jlcpcb-bom.xls` - BOM exported from JLCPCB order
+- **JLCPCB Settings**: `jlcpcb-order-settings.txt` - PCBA order configuration
 
 ## Enclosure
 
