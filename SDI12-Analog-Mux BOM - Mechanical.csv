@@ -1,0 +1,21 @@
+Part,Part Number,Quantity,Price,Cost,Supplier,Notes
+PCB Assembly,,1,49.04,49.04,JLCPCB,"27.125 for parts, the rest is shipping and tariffs"
+Thread forming screw small,,4,0.05,0.2,,
+Thread forming screw large,,12,0.05,0.6,,
+Silicone gasket,,1,6.81,6.81,https://www.mcmaster.com/products/8525t575/,
+Conformal coating,,,0,0,,
+Cable gland,,8,0.46,3.68,https://www.digikey.com/en/products/detail/te-connectivity-entrelec/1SNG601012R0000/19203089,
+Vent,,2,3.89,7.78,https://www.digikey.com/en/products/detail/amphenol-ltw/VENT-PS1NGY-O8002/7898276?s=N4IgTCBcDaIGoFEByAVAtABQMoEYkHEBNNAeQA4AGCiAXQF8g,
+Sensor Cable,,7,7.43,52.01,https://www.mcmaster.com/catalog/131/1005/8070T13,Assuming 20ft cable length
+SS sensor shroud,,7,0.25,1.75,https://www.amazon.com/Stainless-Housing-DS18B20-Temperature-Closed-End/dp/B0DPMF5R8G/ref=sr_1_1?crid=16V5V4M6RG5WI&dib=eyJ2IjoiMSJ9.4l8mqWsiFQsZYmQ5-VHF-ml7eLPLcJWVvUk8u9i7lT-_4k0X-XXkEtZl4k4tLRlo8SlkXmaANyHoJ6K-2jdNnuuRVo_arCht5_ivDxss_TE.QJBbokBk9G6jp74owsMpzPI0ZWOrPXJVJaYnj4KN6sg&dib_tag=se&keywords=100pcs%2Bstainless%2Bsteel%2Bhousing%2Bfor%2Bpt100&qid=1763669938&sprefix=100pcs%2Bstainless%2Bsteel%2Bhousign%2Bfor%2Bpt100%2Caps%2C120&sr=8-1&th=1,
+RTD Sensor Board,,7,0.18,1.26,JLCPCB,
+SDI12 Connector,,1,5.95,5.95,https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/T4111001031-000/8537344?s=N4IgTCBcDaICoBYCMKAMqmoMxILTtRAF0BfIA,
+SDI12 Cable,,1,0.16,0.16,https://www.mcmaster.com/catalog/131/1005/8070T13,
+Bottom Enclosure,,1,0,0,,
+Top Enclosure,,1,0,0,,
+P100 RTD,,7,1.57,10.99,https://www.digikey.com/en/products/detail/vishay/PTS060301B100RP100/1666183,
+Silicone sealer,,,0,0,,
+Waterproof shrink tubing,,7,0.95,6.65,https://www.mcmaster.com/74965K54/,
+M12x15 O ring,,8,0.14,1.12,https://www.mcmaster.com/9557K464/,
+,,,,148,,
+,,COST PER SENSOR = ,,21.14285714,,
